@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginHorizontal="@dimen/_5sdp"
+        android:layout_width="match_parent"
+        android:scaleType="centerCrop"
+        android:id="@+id/ivImageView"
+        android:src="@drawable/image"
+        android:layout_height="@dimen/_150sdp" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvProductId"
+        android:textSize="@dimen/_13sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvCartId"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvDescription"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvPrice"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvQuantity"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_marginLeft="@dimen/_5sdp"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:text="@string/app_name"
+        android:textColor="@android:color/black"
+        android:id="@+id/tvTotal"
+        android:textSize="@dimen/_13sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View
+        android:background="@android:color/black"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"/>
+
+</LinearLayout>

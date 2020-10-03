@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ArslanProject</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_data">No data found</string>
+    <string name="base_url">http://192.168.100.210:80/</string>
+    <string name="base_url_image">http://192.168.100.210:80/Arslan151/images/</string>
+    <string name="details">Details</string>
+    <string name="view_stock">View Stock</string>
+    <string name="view_orders">View Orders</string>
+    <string name="admin_login">Login</string>
+    <string name="admin_logout">Logout</string>
+    <string name="isLoggedin">isLoggedin</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_number">Order#</string>
+    <string name="order_date_time"><![CDATA[Order Date & Time]]></string>
+    <string name="order_status">Order Status</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="pay_info">Payment Information</string>
+    <string name="cus_info">Customer Information</string>
+    <string name="cus_name">Customer Name</string>
+    <string name="email">Email</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="shipping">Shipping</string>
+    <string name="total_paid">Total Paid</string>
+    <string name="total_due">Total Due</string>
+    <string name="view_details">VIEW DETAILS</string>
+    <string name="shipping_value">0.00</string>
+    <string name="total_paid_value">0.00</string>
+    <string name="product_name_type">Product Name/Type</string>
+    <string name="product_category">Product Category</string>
+    <string name="product_brand">Product Brand</string>
+    <string name="product_price">Product Price</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_quantity_available">Product Quantity Available</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="admin_login_text">Admin Login</string>
+    <string name="field_is_required">This field is required</string>
+    <string name="email_not_valid">Enter valid email</string>
+</resources>
